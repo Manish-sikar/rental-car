@@ -1,0 +1,160 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "course": "Computer Science",
+      "year": "2019-2020",
+      "subject": ["Data Structures", "Algorithms", "Operating Systems"]
+    },
+    {
+      "id": 2,
+      "course": "Mechanical Engineering",
+      "year": "2019-2020",
+      "subject": ["Thermodynamics", "Fluid Mechanics", "Machine Design"]
+    },
+    {
+      "id": 3,
+      "course": "Electrical Engineering",
+      "year": "2020-2021",
+      "subject": ["Circuit Analysis", "Electromagnetics", "Control Systems"]
+    },
+    {
+      "id": 4,
+      "course": "Civil Engineering",
+      "year": "2019-2020",
+      "subject": [
+        "Structural Analysis",
+        "Geotechnical Engineering",
+        "Transportation Engineering"
+      ]
+    },
+    {
+      "id": 5,
+      "course": "Biotechnology",
+      "year": "2020-2021",
+      "subject": ["Genetics", "Bioprocess Engineering", "Bioinformatics"]
+    },
+    {
+      "id": 6,
+      "course": "Chemical Engineering",
+      "year": "2020-2021",
+      "subject": [
+        "Chemical Reaction Engineering",
+        "Process Dynamics",
+        "Transport Phenomena"
+      ]
+    },
+    {
+      "id": 7,
+      "course": "Information Technology",
+      "year": "2019-2020",
+      "subject": [
+        "Database Management Systems",
+        "Computer Networks",
+        "Software Engineering"
+      ]
+    },
+    {
+      "id": 8,
+      "course": "Aerospace Engineering",
+      "year": "2019-2020",
+      "subject": ["Aerodynamics", "Flight Mechanics", "Propulsion"]
+    },
+    {
+      "id": 9,
+      "course": "Architecture",
+      "year": "2020-2021",
+      "subject": [
+        "Building Materials",
+        "Architectural Design",
+        "Urban Planning"
+      ]
+    },
+    {
+      "id": 10,
+      "course": "Environmental Science",
+      "year": "2020-2021",
+      "subject": [
+        "Ecology",
+        "Environmental Chemistry",
+        "Sustainable Development"
+      ]
+    },
+    {
+      "id": 11,
+      "course": "Physics",
+      "year": "2019-2020",
+      "subject": ["Classical Mechanics", "Quantum Mechanics", "Electrodynamics"]
+    },
+    {
+      "id": 12,
+      "course": "Chemistry",
+      "year": "2020-2021",
+      "subject": [
+        "Organic Chemistry",
+        "Inorganic Chemistry",
+        "Physical Chemistry"
+      ]
+    },
+    {
+      "id": 13,
+      "course": "Mathematics",
+      "year": "2019-2020",
+      "subject": ["Calculus", "Linear Algebra", "Statistics"]
+    },
+    {
+      "id": 14,
+      "course": "Business Administration",
+      "year": "2020-2021",
+      "subject": ["Marketing", "Finance", "Human Resource Management"]
+    },
+    {
+      "id": 15,
+      "course": "Economics",
+      "year": "2019-2020",
+      "subject": ["Microeconomics", "Macroeconomics", "Econometrics"]
+    },
+    {
+      "id": 16,
+      "course": "Psychology",
+      "year": "2020-2021",
+      "subject": [
+        "Cognitive Psychology",
+        "Social Psychology",
+        "Developmental Psychology"
+      ]
+    },
+    {
+      "id": 17,
+      "course": "Sociology",
+      "year": "2019-2020",
+      "subject": [
+        "Sociological Theory",
+        "Research Methods",
+        "Social Stratification"
+      ]
+    },
+    {
+      "id": 18,
+      "course": "Political Science",
+      "year": "2020-2021",
+      "subject": [
+        "International Relations",
+        "Political Theory",
+        "Comparative Politics"
+      ]
+    },
+    {
+      "id": 19,
+      "course": "History",
+      "year": "2019-2020",
+      "subject": ["Ancient History", "Medieval History", "Modern History"]
+    },
+    {
+      "id": 20,
+      "course": "Philosophy",
+      "year": "2020-2021",
+      "subject": ["Ethics", "Logic", "Metaphysics"]
+    }
+  ]
+}

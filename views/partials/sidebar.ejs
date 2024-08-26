@@ -1,0 +1,160 @@
+<aside id="layout-menu" class="layout-menu-horizontal menu-horizontal menu bg-menu-theme flex-grow-0">
+  <div class="container-xxl d-flex h-100">
+    <ul class="menu-inner">
+
+      <!-- IsActive Route -->
+      <% const isActive=(route)=> activeRoute === route; %>
+
+        <!-- Dashboards -->
+        <li class="menu-item <%= activeRoute === '/api/dashboard' ? 'active' : '' %>">
+          <a href="/api/dashboard" class="menu-link">
+            <i class="menu-icon tf-icons ti ti-smart-home"></i>
+            <div>Dashboards</div>
+          </a>
+        </li>
+
+        <!-- Admin Start -->
+
+        <% const AdminActive=activeRoute==='/api/users' || activeRoute.startsWith('/api/users/permissions'); %>
+
+          <li class="menu-item <%= AdminActive ? ' active' : '' %>">
+            <a href="javascript:void(0)" class="menu-link menu-toggle">
+              <i class="menu-icon tf-icons ti ti-smart-home"></i>
+              <div>Admin</div>
+            </a>
+
+            <ul class="menu-sub">
+              <li class="menu-item <%= activeRoute === '/api/users' ? ' active' : '' %>">
+                <a href="/api/users" class="menu-link">
+                  <i class="menu-icon tf-icons ti ti-list-details"></i>
+                  <div>Users</div>
+                </a>
+              </li>
+              <li class="menu-item <%= activeRoute === '/api/permissions' ? ' active' : '' %>">
+                <a href="/api/users/permissions" class="menu-link">
+                  <i class="menu-icon tf-icons ti ti-list-details"></i>
+                  <div>Permissions</div>
+                </a>
+              </li>
+            </ul>
+          </li>
+
+          <!-- Admin End -->
+
+
+          <!-- College Start -->
+
+
+          <% const collegeActive=activeRoute==='/api/colleges' || activeRoute.startsWith('/api/college'); %>
+
+            <li class="menu-item <%= collegeActive ? ' active' : '' %>">
+              <a href="javascript:void(0)" class="menu-link menu-toggle">
+                <i class="menu-icon tf-icons ti ti-smart-home"></i>
+                <div>Colleges</div>
+              </a>
+
+              <ul class="menu-sub">
+                <li class="menu-item <%= activeRoute === '/api/colleges' ? ' active' : '' %>">
+                  <a href="/api/colleges" class="menu-link">
+                    <i class="menu-icon tf-icons ti ti-list-details"></i>
+                    <div>Nursing Colleges</div>
+                  </a>
+                </li>
+                <li class="menu-item <%= activeRoute === '/api/college/student' ? ' active' : '' %>">
+                  <a href="/api/colleges/student" class="menu-link">
+                    <i class="menu-icon tf-icons ti ti-list-details"></i>
+                    <div>Student</div>
+                  </a>
+                </li>
+              </ul>
+            </li>
+
+            <!-- College End -->
+
+
+            <!-- Master Start -->
+
+            <% const masterActive=isActive('/api/subjects') || isActive('/api/subjectPerCourse') ||
+              isActive('/api/exams') || isActive('/api/courses') || isActive('/api/maxMarks'); %>
+
+              <li class="menu-item <%= masterActive ? 'active' : '' %>">
+                <a href="javascript:void(0)" class="menu-link menu-toggle">
+                  <i class="menu-icon tf-icons ti ti-ballpen"></i>
+                  <div data-i18n="Master">Master</div>
+                </a>
+
+                <ul class="menu-sub">
+                  <li class="menu-item <%= activeRoute === '/api/subjects' ? 'active' : '' %>">
+                    <a href="/api/subjects" class="menu-link">
+                      <i class="menu-icon tf-icons ti ti-list-details"></i>
+                      <div>Subjects</div>
+                    </a>
+                  </li>
+                  <li class="menu-item <%= activeRoute === '/api/subjectPerCourse' ? 'active' : '' %>">
+                    <a href="/api/subjectPerCourse" class="menu-link">
+                      <i class="menu-icon tf-icons ti ti-list-details"></i>
+                      <div>Subjects Per Course</div>
+                    </a>
+                  </li>
+                  <li class="menu-item <%= activeRoute === '/api/exams' ? 'active' : '' %>">
+                    <a href="/api/exams" class="menu-link">
+                      <i class="menu-icon tf-icons ti ti-list-details"></i>
+                      <div>Exams</div>
+                    </a>
+                  </li>
+                  <li class="menu-item <%= activeRoute === '/api/courses' ? 'active' : '' %>">
+                    <a href="/api/courses" class="menu-link">
+                      <i class="menu-icon tf-icons ti ti-list-details"></i>
+                      <div>Courses</div>
+                    </a>
+                  </li>
+                  <li class="menu-item <%= activeRoute === '/api/maxMarks' ? 'active' : '' %>">
+                    <a href="/api/maxMarks" class="menu-link">
+                      <i class="menu-icon tf-icons ti ti-list-details"></i>
+                      <div>Max Marks</div>
+                    </a>
+                  </li>
+                </ul>
+              </li>
+              <!-- Master End -->
+
+          <!-- Exam Start -->
+
+
+          <% const examActive=activeRoute==='/api/exam/centers'; %>
+
+            <li class="menu-item <%= examActive ? ' active' : '' %>">
+              <a href="javascript:void(0)" class="menu-link menu-toggle">
+                <i class="menu-icon tf-icons ti ti-smart-home"></i>
+                <div>Exam</div>
+              </a>
+
+              <ul class="menu-sub">
+                <li class="menu-item <%= activeRoute === '/api/colleges' ? ' active' : '' %>">
+                  <a href="/api/exam/centers" class="menu-link">
+                    <i class="menu-icon tf-icons ti ti-list-details"></i>
+                    <div>Centers</div>
+                  </a>
+                </li>
+              </ul>
+            </li>
+
+
+            <li class="menu-item <%= activeRoute === '/api/logout' ? 'active' : '' %>">
+              <a href="/api/logout" class="menu-link">
+                <i class="menu-icon tf-icons ti ti-smart-home"></i>
+                <div>logout</div>
+              </a>
+            </li>
+            <!-- Exam End -->
+
+
+
+              <!-- Charts & Maps -->
+
+
+              <!-- Misc -->
+
+    </ul>
+  </div>
+</aside>

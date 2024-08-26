@@ -1,0 +1,279 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "subject_name": "Mathematics",
+      "paper_code": "MATH101",
+      "paper_topic": "Calculus",
+      "paper_type": "Theory",
+      "min_internal_marks": 2,
+      "max_internal_marks": 88,
+      "min_practical_marks": 1,
+      "max_practical_marks": 99
+    },
+    {
+      "id": 2,
+      "subject_name": "Physics",
+      "paper_code": "PHYS101",
+      "paper_topic": "Electromagnetism",
+      "paper_type": "Theory",
+      "min_internal_marks": 5,
+      "max_internal_marks": 85,
+      "min_practical_marks": 2,
+      "max_practical_marks": 95
+    },
+    {
+      "id": 3,
+      "subject_name": "Chemistry",
+      "paper_code": "CHEM101",
+      "paper_topic": "Organic Chemistry",
+      "paper_type": "Theory",
+      "min_internal_marks": 4,
+      "max_internal_marks": 90,
+      "min_practical_marks": 3,
+      "max_practical_marks": 98
+    },
+    {
+      "id": 4,
+      "subject_name": "Biology",
+      "paper_code": "BIOL101",
+      "paper_topic": "Genetics",
+      "paper_type": "Theory",
+      "min_internal_marks": 3,
+      "max_internal_marks": 80,
+      "min_practical_marks": 2,
+      "max_practical_marks": 96
+    },
+    {
+      "id": 5,
+      "subject_name": "Computer Science",
+      "paper_code": "CS101",
+      "paper_topic": "Data Structures",
+      "paper_type": "Theory",
+      "min_internal_marks": 6,
+      "max_internal_marks": 82,
+      "min_practical_marks": 4,
+      "max_practical_marks": 94
+    },
+    {
+      "id": 6,
+      "subject_name": "History",
+      "paper_code": "HIST101",
+      "paper_topic": "Ancient Civilizations",
+      "paper_type": "Theory",
+      "min_internal_marks": 3,
+      "max_internal_marks": 87,
+      "min_practical_marks": 1,
+      "max_practical_marks": 99
+    },
+    {
+      "id": 7,
+      "subject_name": "Geography",
+      "paper_code": "GEOG101",
+      "paper_topic": "Physical Geography",
+      "paper_type": "Theory",
+      "min_internal_marks": 5,
+      "max_internal_marks": 85,
+      "min_practical_marks": 2,
+      "max_practical_marks": 92
+    },
+    {
+      "id": 8,
+      "subject_name": "English",
+      "paper_code": "ENG101",
+      "paper_topic": "Literature",
+      "paper_type": "Theory",
+      "min_internal_marks": 4,
+      "max_internal_marks": 88,
+      "min_practical_marks": 1,
+      "max_practical_marks": 97
+    },
+    {
+      "id": 9,
+      "subject_name": "Philosophy",
+      "paper_code": "PHIL101",
+      "paper_topic": "Ethics",
+      "paper_type": "Theory",
+      "min_internal_marks": 2,
+      "max_internal_marks": 86,
+      "min_practical_marks": 3,
+      "max_practical_marks": 95
+    },
+    {
+      "id": 10,
+      "subject_name": "Economics",
+      "paper_code": "ECON101",
+      "paper_topic": "Microeconomics",
+      "paper_type": "Theory",
+      "min_internal_marks": 5,
+      "max_internal_marks": 83,
+      "min_practical_marks": 3,
+      "max_practical_marks": 90
+    },
+    {
+      "id": 11,
+      "subject_name": "Political Science",
+      "paper_code": "POL101",
+      "paper_topic": "Political Theories",
+      "paper_type": "Theory",
+      "min_internal_marks": 3,
+      "max_internal_marks": 89,
+      "min_practical_marks": 2,
+      "max_practical_marks": 96
+    },
+    {
+      "id": 12,
+      "subject_name": "Sociology",
+      "paper_code": "SOC101",
+      "paper_topic": "Social Institutions",
+      "paper_type": "Theory",
+      "min_internal_marks": 6,
+      "max_internal_marks": 81,
+      "min_practical_marks": 2,
+      "max_practical_marks": 93
+    },
+    {
+      "id": 13,
+      "subject_name": "Statistics",
+      "paper_code": "STAT101",
+      "paper_topic": "Probability",
+      "paper_type": "Theory",
+      "min_internal_marks": 4,
+      "max_internal_marks": 84,
+      "min_practical_marks": 2,
+      "max_practical_marks": 97
+    },
+    {
+      "id": 14,
+      "subject_name": "Engineering",
+      "paper_code": "ENGG101",
+      "paper_topic": "Thermodynamics",
+      "paper_type": "Theory",
+      "min_internal_marks": 5,
+      "max_internal_marks": 88,
+      "min_practical_marks": 4,
+      "max_practical_marks": 95
+    },
+    {
+      "id": 15,
+      "subject_name": "Music",
+      "paper_code": "MUSIC101",
+      "paper_topic": "Music Theory",
+      "paper_type": "Theory",
+      "min_internal_marks": 2,
+      "max_internal_marks": 90,
+      "min_practical_marks": 1,
+      "max_practical_marks": 99
+    },
+    {
+      "id": 16,
+      "subject_name": "Art",
+      "paper_code": "ART101",
+      "paper_topic": "Drawing",
+      "paper_type": "Theory",
+      "min_internal_marks": 3,
+      "max_internal_marks": 86,
+      "min_practical_marks": 2,
+      "max_practical_marks": 94
+    },
+    {
+      "id": 17,
+      "subject_name": "Physical Education",
+      "paper_code": "PE101",
+      "paper_topic": "Fitness Training",
+      "paper_type": "Theory",
+      "min_internal_marks": 4,
+      "max_internal_marks": 82,
+      "min_practical_marks": 3,
+      "max_practical_marks": 92
+    },
+    {
+      "id": 18,
+      "subject_name": "Environmental Science",
+      "paper_code": "ENV101",
+      "paper_topic": "Ecology",
+      "paper_type": "Theory",
+      "min_internal_marks": 5,
+      "max_internal_marks": 87,
+      "min_practical_marks": 2,
+      "max_practical_marks": 95
+    },
+    {
+      "id": 19,
+      "subject_name": "Law",
+      "paper_code": "LAW101",
+      "paper_topic": "Constitutional Law",
+      "paper_type": "Theory",
+      "min_internal_marks": 3,
+      "max_internal_marks": 89,
+      "min_practical_marks": 1,
+      "max_practical_marks": 96
+    },
+    {
+      "id": 20,
+      "subject_name": "Engineering Mathematics",
+      "paper_code": "ENGMATH101",
+      "paper_topic": "Linear Algebra",
+      "paper_type": "Theory",
+      "min_internal_marks": 6,
+      "max_internal_marks": 85,
+      "min_practical_marks": 3,
+      "max_practical_marks": 92
+    },
+    {
+      "id": 21,
+      "subject_name": "Agriculture",
+      "paper_code": "AGRI101",
+      "paper_topic": "Crop Science",
+      "paper_type": "Theory",
+      "min_internal_marks": 2,
+      "max_internal_marks": 84,
+      "min_practical_marks": 2,
+      "max_practical_marks": 98
+    },
+    {
+      "id": 22,
+      "subject_name": "Architecture",
+      "paper_code": "ARCH101",
+      "paper_topic": "Design Principles",
+      "paper_type": "Theory",
+      "min_internal_marks": 5,
+      "max_internal_marks": 87,
+      "min_practical_marks": 4,
+      "max_practical_marks": 95
+    },
+    {
+      "id": 23,
+      "subject_name": "Pharmacy",
+      "paper_code": "PHARM101",
+      "paper_topic": "Pharmacology",
+      "paper_type": "Theory",
+      "min_internal_marks": 4,
+      "max_internal_marks": 82,
+      "min_practical_marks": 3,
+      "max_practical_marks": 97
+    },
+    {
+      "id": 24,
+      "subject_name": "Business Administration",
+      "paper_code": "BUS101",
+      "paper_topic": "Management Principles",
+      "paper_type": "Theory",
+      "min_internal_marks": 3,
+      "max_internal_marks": 85,
+      "min_practical_marks": 2,
+      "max_practical_marks": 91
+    },
+    {
+      "id": 25,
+      "subject_name": "Tourism",
+      "paper_code": "TOUR101",
+      "paper_topic": "Tourism Management",
+      "paper_type": "Theory",
+      "min_internal_marks": 6,
+      "max_internal_marks": 80,
+      "min_practical_marks": 3,
+      "max_practical_marks": 92
+    }
+  ]
+}

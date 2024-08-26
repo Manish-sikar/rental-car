@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "exam_name": "Midterm",
+      "subject_name": "Data Structures",
+      "max_marks": 100
+    },
+    {
+      "id": 2,
+      "exam_name": "Final",
+      "subject_name": "Algorithms",
+      "max_marks": 150
+    },
+    {
+      "id": 3,
+      "exam_name": "Midterm",
+      "subject_name": "Operating Systems",
+      "max_marks": 120
+    },
+    {
+      "id": 4,
+      "exam_name": "Final",
+      "subject_name": "Thermodynamics",
+      "max_marks": 200
+    },
+    {
+      "id": 5,
+      "exam_name": "Midterm",
+      "subject_name": "Fluid Mechanics",
+      "max_marks": 130
+    },
+    {
+      "id": 6,
+      "exam_name": "Final",
+      "subject_name": "Machine Design",
+      "max_marks": 180
+    },
+    {
+      "id": 7,
+      "exam_name": "Midterm",
+      "subject_name": "Circuit Analysis",
+      "max_marks": 110
+    },
+    {
+      "id": 8,
+      "exam_name": "Final",
+      "subject_name": "Electromagnetics",
+      "max_marks": 140
+    },
+    {
+      "id": 9,
+      "exam_name": "Midterm",
+      "subject_name": "Control Systems",
+      "max_marks": 150
+    },
+    {
+      "id": 10,
+      "exam_name": "Final",
+      "subject_name": "Structural Analysis",
+      "max_marks": 170
+    },
+    {
+      "id": 11,
+      "exam_name": "Midterm",
+      "subject_name": "Geotechnical Engineering",
+      "max_marks": 140
+    },
+    {
+      "id": 12,
+      "exam_name": "Final",
+      "subject_name": "Transportation Engineering",
+      "max_marks": 160
+    },
+    {
+      "id": 13,
+      "exam_name": "Midterm",
+      "subject_name": "Genetics",
+      "max_marks": 120
+    },
+    {
+      "id": 14,
+      "exam_name": "Final",
+      "subject_name": "Bioprocess Engineering",
+      "max_marks": 150
+    },
+    {
+      "id": 15,
+      "exam_name": "Midterm",
+      "subject_name": "Bioinformatics",
+      "max_marks": 130
+    },
+    {
+      "id": 16,
+      "exam_name": "Final",
+      "subject_name": "Chemical Reaction Engineering",
+      "max_marks": 180
+    },
+    {
+      "id": 17,
+      "exam_name": "Midterm",
+      "subject_name": "Process Dynamics",
+      "max_marks": 110
+    },
+    {
+      "id": 18,
+      "exam_name": "Final",
+      "subject_name": "Transport Phenomena",
+      "max_marks": 200
+    },
+    {
+      "id": 19,
+      "exam_name": "Midterm",
+      "subject_name": "Database Management Systems",
+      "max_marks": 130
+    },
+    {
+      "id": 20,
+      "exam_name": "Final",
+      "subject_name": "Computer Networks",
+      "max_marks": 150
+    }
+  ]
+}

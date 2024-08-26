@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "Vehicle_Name": "Toyota Camry",
+      "duration": "8 HR / 80 KM",
+      "Amount": "₹6400",
+      "Extra_Hrs": "₹750",
+      "Extra_Kms": "₹35.00",
+      "Out_Station_Kms": "₹35.00",
+      "Doors": 4,
+      "Seating_Cap": "4+1",
+      "Luggage": "2 Suitcase 2 Bag",
+      "car_image":"avatars/5.png"
+    },
+    {
+      "id": 2,
+      "Vehicle_Name": "Honda City",
+      "duration": "7 HR / 70 KM",
+      "Amount": "₹5800",
+      "Extra_Hrs": "₹650",
+      "Extra_Kms": "₹30.00",
+      "Out_Station_Kms": "₹30.00",
+      "Doors": 4,
+      "Seating_Cap": "4+1",
+      "Luggage": "2 Suitcase 1 Bag",
+      "car_image":"avatars/5.png"
+    },
+    {
+      "id": 3,
+      "Vehicle_Name": "Maruti Suzuki",
+      "duration": "6 HR / 60 KM",
+      "Amount": "₹5200",
+      "Extra_Hrs": "₹550",
+      "Extra_Kms": "₹25.00",
+      "Out_Station_Kms": "₹25.00",
+      "Doors": 4,
+      "Seating_Cap": "4+1",
+      "Luggage": "2 Suitcase 1 Bag",
+      "car_image":"avatars/4.png"
+    },
+    {
+      "id": 4,
+      "Vehicle_Name": "Hyundai Verna",
+      "duration": "7 HR / 70 KM",
+      "Amount": "₹5600",
+      "Extra_Hrs": "₹600",
+      "Extra_Kms": "₹28.00",
+      "Out_Station_Kms": "₹28.00",
+      "Doors": 4,
+      "Seating_Cap": "4+1",
+      "Luggage": "2 Suitcase 1 Bag",
+      "car_image":"avatars/3.png"
+    },
+    {
+      "id": 5,
+      "Vehicle_Name": "Ford Figo",
+      "duration": "6 HR / 60 KM",
+      "Amount": "₹5000",
+      "Extra_Hrs": "₹500",
+      "Extra_Kms": "₹22.00",
+      "Out_Station_Kms": "₹22.00",
+      "Doors": 4,
+      "Seating_Cap": "4+1",
+      "Luggage": "2 Suitcase 1 Bag",
+      "car_image":"avatars/2.png"
+    },
+    {
+      "id": 6,
+      "Vehicle_Name": "Volkswagen Polo",
+      "duration": "7 HR / 70 KM",
+      "Amount": "₹5400",
+      "Extra_Hrs": "₹580",
+      "Extra_Kms": "₹26.00",
+      "Out_Station_Kms": "₹26.00",
+      "Doors": 4,
+      "Seating_Cap": "4+1",
+      "Luggage": "2 Suitcase 1 Bag",
+      "car_image":"avatars/5.png"
+    },
+    {
+      "id": 7,
+      "Vehicle_Name": "Skoda Rapid",
+      "duration": "7 HR / 70 KM",
+      "Amount": "₹5700",
+      "Extra_Hrs": "₹620",
+      "Extra_Kms": "₹29.00",
+      "Out_Station_Kms": "₹29.00",
+      "Doors": 4,
+      "Seating_Cap": "4+1",
+      "Luggage": "2 Suitcase 1 Bag",
+      "car_image":"avatars/5.png"
+    },
+    {
+      "id": 8,
+      "Vehicle_Name": "Nissan Sunny",
+      "duration": "6 HR / 60 KM",
+      "Amount": "₹5100",
+      "Extra_Hrs": "₹520",
+      "Extra_Kms": "₹24.00",
+      "Out_Station_Kms": "₹24.00",
+      "Doors": 4,
+      "Seating_Cap": "4+1",
+      "Luggage": "2 Suitcase 1 Bag",
+      "car_image":"avatars/7.png"
+    }
+  ]
+}

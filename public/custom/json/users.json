@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "user_name": "John Doe",
+      "car_id": "C001",
+      "booking_start_time": "2024-08-10 08:00:00",
+      "booking_end_time": "2024-08-10 18:00:00",
+      "extra_time": "2 hours",
+      "extra_kms": 50,
+      "out_station_kms": 100,
+      "status": "Completed",
+      "total_amount": 5000
+    },
+    {
+      "id": 2,
+      "user_name": "Jane Smith",
+      "car_id": "C002",
+      "booking_start_time": "2024-08-11 09:00:00",
+      "booking_end_time": "2024-08-11 20:00:00",
+      "extra_time": "1 hour",
+      "extra_kms": 30,
+      "out_station_kms": 80,
+      "status": "Completed",
+      "total_amount": 4000
+    },
+    {
+      "id": 3,
+      "user_name": "Alice Johnson",
+      "car_id": "C003",
+      "booking_start_time": "2024-08-12 07:00:00",
+      "booking_end_time": "2024-08-12 16:00:00",
+      "extra_time": "3 hours",
+      "extra_kms": 40,
+      "out_station_kms": 90,
+      "status": "Cancelled",
+      "total_amount": 3500
+    },
+    {
+      "id": 4,
+      "user_name": "Bob Brown",
+      "car_id": "C004",
+      "booking_start_time": "2024-08-13 10:00:00",
+      "booking_end_time": "2024-08-13 19:00:00",
+      "extra_time": "0 hours",
+      "extra_kms": 60,
+      "out_station_kms": 70,
+      "status": "Completed",
+      "total_amount": 4500
+    },
+    {
+      "id": 5,
+      "user_name": "Charlie Davis",
+      "car_id": "C005",
+      "booking_start_time": "2024-08-14 12:00:00",
+      "booking_end_time": "2024-08-14 22:00:00",
+      "extra_time": "4 hours",
+      "extra_kms": 20,
+      "out_station_kms": 50,
+      "status": "Pending",
+      "total_amount": 6000
+    },
+    {
+      "id": 6,
+      "user_name": "Diana Evans",
+      "car_id": "C006",
+      "booking_start_time": "2024-08-15 06:00:00",
+      "booking_end_time": "2024-08-15 15:00:00",
+      "extra_time": "2 hours",
+      "extra_kms": 70,
+      "out_station_kms": 30,
+      "status": "Completed",
+      "total_amount": 5500
+    },
+    {
+      "id": 7,
+      "user_name": "Eve Foster",
+      "car_id": "C007",
+      "booking_start_time": "2024-08-16 08:30:00",
+      "booking_end_time": "2024-08-16 17:30:00",
+      "extra_time": "1 hour",
+      "extra_kms": 40,
+      "out_station_kms": 60,
+      "status": "Completed",
+      "total_amount": 4800
+    },
+    {
+      "id": 8,
+      "user_name": "Frank Green",
+      "car_id": "C008",
+      "booking_start_time": "2024-08-17 09:00:00",
+      "booking_end_time": "2024-08-17 18:00:00",
+      "extra_time": "0 hours",
+      "extra_kms": 80,
+      "out_station_kms": 20,
+      "status": "Cancelled",
+      "total_amount": 3200
+    },
+    {
+      "id": 9,
+      "user_name": "Grace Harris",
+      "car_id": "C009",
+      "booking_start_time": "2024-08-18 07:30:00",
+      "booking_end_time": "2024-08-18 16:30:00",
+      "extra_time": "3 hours",
+      "extra_kms": 60,
+      "out_station_kms": 40,
+      "status": "Pending",
+      "total_amount": 5100
+    },
+    {
+      "id": 10,
+      "user_name": "Henry Irving",
+      "car_id": "C010",
+      "booking_start_time": "2024-08-19 08:00:00",
+      "booking_end_time": "2024-08-19 17:00:00",
+      "extra_time": "2 hours",
+      "extra_kms": 30,
+      "out_station_kms": 90,
+      "status": "Completed",
+      "total_amount": 4700
+    }
+  ]
+}
